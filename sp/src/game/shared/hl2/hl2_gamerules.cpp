@@ -326,6 +326,10 @@ ConVar	sk_plr_dmg_smg1			( "sk_plr_dmg_smg1","0", FCVAR_REPLICATED );
 ConVar	sk_npc_dmg_smg1			( "sk_npc_dmg_smg1","0", FCVAR_REPLICATED);
 ConVar	sk_max_smg1				( "sk_max_smg1","0", FCVAR_REPLICATED);
 
+ConVar	sk_plr_dmg_beretta("sk_plr_dmg_beretta", "0", FCVAR_REPLICATED);
+ConVar	sk_npc_dmg_beretta("sk_npc_dmg_beretta", "0", FCVAR_REPLICATED);
+ConVar	sk_max_beretta("sk_max_beretta", "0", FCVAR_REPLICATED);
+
 // FIXME: remove these
 //ConVar	sk_plr_dmg_flare_round	( "sk_plr_dmg_flare_round","0", FCVAR_REPLICATED);
 //ConVar	sk_npc_dmg_flare_round	( "sk_npc_dmg_flare_round","0", FCVAR_REPLICATED);
